@@ -5,5 +5,8 @@ first line added in develop
 second line added in develop
 third line added in master
 fourth line added in develop
+<<<<<<< HEAD
+=======
 fourth line added in master
 
+>>>>>>> 11dc7fc675ecf8b1b447635f288dda3f2c77e6df
